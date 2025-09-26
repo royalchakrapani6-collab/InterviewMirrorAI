@@ -1,8 +1,9 @@
 streamlit
-opencv-python-headless
+opencv-python
 mediapipe
 numpy
 matplotlib
 cryptography
 SpeechRecognition
 pyaudio
+
